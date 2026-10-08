@@ -1,0 +1,6 @@
+{
+  "name": "Chrono-Maw: Labyrinth of Echoes",
+  "description": "A survival horror maze runner inspired by Pac-Man where players collect golden tokens, dodge corner sniper turrets by rewinding their own timeline into trailing wraiths, and survive sudden psychological jumpscares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
